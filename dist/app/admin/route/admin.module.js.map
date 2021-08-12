@@ -1,0 +1,1 @@
+{"version":3,"file":"admin.module.js","sourceRoot":"","sources":["../../../../app/admin/route/admin.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,qEAAiE;AACjE,mEAA+D;AAU/D,IAAa,WAAW,GAAxB,MAAa,WAAW;CAAG,CAAA;AAAd,WAAW;IARvB,eAAM,CAAC;QACJ,OAAO,EAAE,EAAE;QACX,WAAW,EAAE;YACT,kCAAe;YACf,gCAAc;SACjB;KACJ,CAAC;GAEW,WAAW,CAAG;AAAd,kCAAW"}
